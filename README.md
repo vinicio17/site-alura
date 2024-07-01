@@ -1,2 +1,1 @@
-# site-alura-plus
-Projeto 2 Segundo ano
+# Site-alura-Plus-Pronto-para-alterar
